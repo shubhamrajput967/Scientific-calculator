@@ -20,5 +20,4 @@ Method overriding allows a subclass to provide a specific implementation of a me
 - A `Calculator` superclass contains basic operations.
 - A `ScientificCalculator` subclass overrides some methods to extend or modify behavior.
 
-## 📁 Project Structure
 
